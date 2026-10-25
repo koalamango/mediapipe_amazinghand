@@ -1,10 +1,8 @@
 # MediaPipe + AmazingHand
 
+![hand tracking demo](mediapipe_amazinghand.gif)
+
 Real-time browser-based hand tracking ([MediaPipe](https://github.com/google-ai-edge/mediapipe)), sending finger movements to [AmazingHand](https://github.com/pollen-robotics/AmazingHand) over WebSocket.
-
-<!-- Add a demo video here. -->
-
-Original code reference: [Seeed Studio – AmazingHand MediaPipe Hand Tracking Demo](https://wiki.seeedstudio.com/hand_amazinghand/#mediapipe-hand-tracking-demo)
 
 ## Quick Start
 
@@ -46,3 +44,5 @@ Open <http://localhost:8000> in your browser and allow webcam access.
 ## Mediapipe Hand Landmarks
 
 ![hand-landmarks](hand-landmarks.png)
+
+Original code reference: [Seeed Studio – AmazingHand MediaPipe Hand Tracking Demo](https://wiki.seeedstudio.com/hand_amazinghand/#mediapipe-hand-tracking-demo)
