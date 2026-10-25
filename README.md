@@ -1,6 +1,6 @@
-# [MediaPipe](https://github.com/google-ai-edge/mediapipe) + [AmazingHand](https://github.com/pollen-robotics/AmazingHand)
+# MediaPipe + AmazingHand
 
-Real-time browser-based hand tracking, sending finger movements to AmazingHand over WebSocket.
+Real-time browser-based hand tracking ([MediaPipe](https://github.com/google-ai-edge/mediapipe)), sending finger movements to [AmazingHand](https://github.com/pollen-robotics/AmazingHand) over WebSocket.
 
 <!-- Add a demo video here. -->
 
